@@ -1,2 +1,2 @@
 # MNIST_repo
-Neural network classifier for classical MNIST database.
+Neural network classifier for the classical MNIST database.
